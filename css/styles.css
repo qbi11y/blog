@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+	box-sizing:border-box;
+}
+
+ul {
+	list-style:none;
+}
+
+li {
+	border-bottom:1px solid rgba(102,102,102,.5);
+	padding:20px;
+}
